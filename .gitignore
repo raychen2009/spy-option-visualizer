@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# GitHub-specific
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
